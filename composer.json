@@ -1,4 +1,8 @@
 {
-	"description": "Install image_moo (Mat-Moo) via Composer",
-	"name": "den4x/image_moo"
+  "description": "Install image_moo (Mat-Moo) via Composer",
+  "name": "den4x/image_moo",
+  "require": {
+    "php": ">5.6",
+    "ext-gd": "*"
+  }
 }
